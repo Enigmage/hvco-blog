@@ -12,7 +12,8 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
-$white: #fff;
+// $white: #fff;
+$white: linear-gradient(to right, #f5e3e6, #d9e4f5);
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
