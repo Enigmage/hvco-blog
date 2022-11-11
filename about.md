@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Partnered organizations
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- [Ourswapna](https://ourswapna.org/)
+- [Shri Lakshman Giri Gaushala](https://www.facebook.com/groups/675596543215592/?mibextid=6NoCDW)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+- [alizaidi9@duck.com](alizaidi9@duck.com)
