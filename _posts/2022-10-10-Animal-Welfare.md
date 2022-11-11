@@ -27,7 +27,15 @@ Animal welfare is closely linked to animal health, the health and wellbeing of p
 
 # What do we do?
 
-Currently we focus on these measures : [Add work done here]
+Currently we focus on these measures :
+- Our members visited Shri Lakshman Giri Gaushala
+- We talked to the employees about ways to contribute
+- We decided to donate money to the organization on behalf of all the members
+- Also take part in regular feeding of fruits with the help of a custodian
+- There were around 6000 cows there, all were well managed with proper tagging and sterilization
+- We also contributed to tending of injures and providing first aid to the injured cows there
+- We primarily worked with small cattle(calf) for our safety, feeding the large ones from a safe distance
+
 
 
 # How can you help?
